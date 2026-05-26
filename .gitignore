@@ -1,0 +1,9 @@
+node_modules
+.next
+out
+raw
+public/frames
+public/frames-source
+.env*.local
+*.tsbuildinfo
+.DS_Store
